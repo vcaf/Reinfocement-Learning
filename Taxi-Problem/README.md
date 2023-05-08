@@ -1,5 +1,6 @@
 
 # Reinforcement Learning and Q learning —An example of the "taxi problem" in Python
+I have chosen to follow the tutorial when proceeding to reinforcement learning problems for the reason that it is still a bit confusing for myself. Concepts such as Markov Decision Process, Reward Functions, Bellman Equation seems to be in a different universe. Going through this learning process myself, I found that going through an example and practical implementation of reinforcement learning model has helped a lot in clearing up the concepts.
 
 ## The taxi Problem
 ![image](https://user-images.githubusercontent.com/78371221/236786923-ccd09f01-4886-49e0-95d1-459ec50e7a59.png)
