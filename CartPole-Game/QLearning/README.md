@@ -17,7 +17,7 @@
 ## Results
 
 ### Results of the Game before using QLearning
-![CartPoleVideo1](https://user-images.githubusercontent.com/78371221/236788615-94e6e0a3-cc15-4fb4-9377-b695d7b79431.gif)
+[random_interaction.webm](https://user-images.githubusercontent.com/78371221/236788968-c1347e8a-9d1a-4e68-96aa-33b549c45b49.webm)
 
 ### Results of the Game with using QLearning
 ![applying_trained_model_last_5_epi](https://user-images.githubusercontent.com/78371221/236788623-e3f6750e-1948-42b9-a455-25eb2f01314d.gif)
