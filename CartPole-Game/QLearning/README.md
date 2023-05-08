@@ -16,7 +16,7 @@
 
 ## Results
 
-### Results of the Game before using QLearning
+### Results of the Game before using QLearning (with random movements)
 [random_interaction.webm](https://user-images.githubusercontent.com/78371221/236788968-c1347e8a-9d1a-4e68-96aa-33b549c45b49.webm)
 
 ### Results of the Game with using QLearning
