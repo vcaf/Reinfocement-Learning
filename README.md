@@ -1,3 +1,8 @@
+# Reinforcement Learning Research
+![image](https://user-images.githubusercontent.com/78371221/236787443-352bb8f2-341c-47e8-86d5-697b2ce2d76c.png)
+
+## Introduction
+The focus of this research is on using Reinforcement Learning (RL) techniques to train a game, specifically the Cart Pole game. The Cart Pole game was chosen due to its simplicity, which provides an ideal environment to experiment with various RL techniques. This research aims to gain a better understanding of the effectiveness of different RL techniques in game training. To achieve this goal, several RL techniques have been applied and evaluated in the Cart Pole game. The findings of this research are presented in by a link to my notebooks, which includes an overview of the experimental setup, the RL techniques employed, and the results and analysis of the experiments conducted.
 
 ## Structure
 As previously mentioned in the introduction, the objective of this research is to explore and evaluate various Reinforcement Learning (RL) techniques. The aim is to gain a deeper understanding of the available RL methods and their practical applications. Through this research, the focus is to identify the most effective RL techniques and how they can be best applied. 
